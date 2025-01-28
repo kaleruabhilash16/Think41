@@ -1,0 +1,13 @@
+Task:
+Build a front-end web application for a Movie Booking System.
+
+Milestone #0:
+Develop a page to display the details of a specific movie. The page must include the following details:
+
+Title
+Genre
+Duration
+Description
+Instructions:
+
+Framework Requirement: You MUST use a JavaScript framework such as React, VueJS, or Angular. Plain HTML/CSS is not allowed.
